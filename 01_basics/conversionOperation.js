@@ -26,3 +26,46 @@ let stringNumber=String(someNumber)
 
 console.log(typeof stringNumber);
 console.log(stringNumber);
+
+
+
+//OPERATIONS
+let n=5
+let negN=-n;
+console.log(negN)
+
+console.log(3+3)
+console.log(3-3)
+console.log(3*3)
+console.log(2/3)
+console.log(3**3)
+console.log(2%3)
+
+
+let s1="Hello";
+let s2="Prasanta";
+
+console.log(s1+" "+s2);
+console.log(2+"3");
+console.log("2"+3);
+console.log(2+4+"3");
+
+console.log(+true);
+
+let gameCounter=100;
+gameCounter++;
+console.log(gameCounter)
+
+//prefix and postfix
+let x=10;
+let y=x++;
+console.log(x)
+console.log(y)
+
+let a=10;
+let b=++a;
+console.log(a)
+console.log(b)
+
+
+
