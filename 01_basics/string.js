@@ -1,7 +1,7 @@
-// const Name="Prasanta"
-// const repo=5
-// console.log("my name is "+Name+" and my repository count is "+repo);
-// console.log(`my name is ${Name} and my repository count is ${repo}`);
+const Name="Prasanta"
+const repo=5
+console.log("my name is "+Name+" and my repository count is "+repo);
+console.log(`my name is ${Name} and my repository count is ${repo}`);
 
 //declare string through an object
 const name=new String('Prasanta Mohanty')
@@ -20,6 +20,10 @@ console.log(name.includes('pinu'));
 console.log(name.split(''));
 
 
+let s="prasanta"
+console.log(s.length)
+console.log(s.charAt(2));
+console.log(s.toUpperCase());
 
 
 
